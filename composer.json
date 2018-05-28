@@ -1,0 +1,6 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "j4mie/idiorm": "v1.5.5"
+    }
+}
